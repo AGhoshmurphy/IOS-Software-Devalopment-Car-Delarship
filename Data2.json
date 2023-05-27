@@ -1,0 +1,36 @@
+{
+    "name": "Ford",
+    "locations": "Blacktown, Penrith, Liverpool, Campbelltown",
+    "imageName": "CarsResources/ford.jpg",
+    "thumbnailName": "CarsResources/ford.jpg",
+    "type": "Petrol"
+  },
+  {
+    "name": "Tesla",
+    "locations": "Surry Hills, Darlinghurst, Paddington, Randwick",
+    "imageName": "CarsResources/tesla.jpg",
+    "thumbnailName": "CarsResources/tesla.jpg",
+    "type": "Electric"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "locations": "Bondi Junction, Mosman, Double Bay, Neutral Bay",
+    "imageName": "CarsResources/mercedes.jpg",
+    "thumbnailName": "CarsResources/mercedes.jpg",
+    "type": "Petrol"
+  },
+  {
+    "name": "BMW",
+    "locations": "North Shore, Lane Cove, Ryde, Epping",
+    "imageName": "CarsResources/bmw.jpg",
+    "thumbnailName": "CarsResources/bmw.jpg",
+    "type": "Petrol"
+  },
+  {
+    "name": "Audi",
+    "locations": "Crows Nest, Artarmon, Willoughby, Cammeray",
+    "imageName": "CarsResources/audi.jpg",
+    "thumbnailName": "CarsResources/audi.jpg",
+    "type": "Petrol"
+  }
+]
